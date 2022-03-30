@@ -10,8 +10,14 @@ p {
     font-weight: 700;
     font-size: 50px;}
 
+span { 
+    color: white;
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 15px;}
 
-.digital-input {
+
+input {
     background: none;
     border: solid #606b85;
     border-radius: 0;
