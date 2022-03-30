@@ -1,0 +1,26 @@
+body{
+	background-color: #262852;
+
+}
+
+
+p { 
+	color: white;
+	font-family: serif;
+    font-weight: 700;
+    font-size: 50px;}
+
+
+.digital-input {
+    background: none;
+    border: solid #606b85;
+    border-radius: 0;
+    border-width: 0 0 1px;
+    color: inherit;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    outline: none;
+    padding: 4px 0;
+    width: 100%;
+}
