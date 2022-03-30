@@ -20,13 +20,21 @@ span {
 input {
     background: none;
     border: solid #606b85;
-    border-radius: 0;
+    border-radius: -9;
     border-width: 0 0 1px;
     color: inherit;
     font-size: 16px;
-    font-weight: 700;
+    font-weight: 1;
     line-height: 19px;
     outline: none;
-    padding: 4px 0;
-    width: 100%;
+    padding: 1px 0;
+    width: 25%;
 }
+
+input { 
+    color: white;
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 15px;}
+
+
