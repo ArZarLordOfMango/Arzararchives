@@ -1,0 +1,20 @@
+body{
+	background-color: #FFDDDD;
+
+}
+
+p { 
+	color: black;
+	font-family: cursive;
+    font-weight: 693px;
+    font-size: 47px;}
+
+.vl{
+  border-left: 18px solid gray;
+  height: 945px;
+}
+
+.vr{
+  border-right:18px solid gray;
+  height: 945px;
+}
