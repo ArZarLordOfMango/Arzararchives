@@ -2,7 +2,7 @@
 
 Не трогайте, код тупого человека
 
-Dont touch, code a stupid man
+don`t touch code of the stupid man
 
 
 https://www.youtube.com/watch?v=kOZZghlCIhc
